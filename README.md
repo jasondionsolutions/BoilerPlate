@@ -1,4 +1,4 @@
-# 🛠️ Hackme Boilerplate
+# 🛠️ KDP Specialist Boilerplate
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.0-38BDF8?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
