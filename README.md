@@ -5,7 +5,7 @@
 [![Playwright](https://img.shields.io/badge/Tested%20with-Playwright-45ba63?logo=playwright&logoColor=white)](https://playwright.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-A **Next.js 15**, **React 19**, and **Tailwind CSS v4** starter template, with:
+A **Next.js 16**, **React 19**, and **Tailwind CSS v4** starter template, with:
 
 - ✨ Radix UI + `class-variance-authority` (CVA)
 - 🌗 Dark mode support via `next-themes`
